@@ -1,0 +1,1 @@
+# FSFLIX Downloads\n\nRepositório público para downloads do FSFLIX.\n\n## Downloads\n\n- **Android:** [FSFLIX-android.apk](https://github.com/pedrohenricodev/netfree-releases/releases/latest/download/FSFLIX-android.apk)\n- **Windows:** [FSFLIX-Setup.exe](https://github.com/pedrohenricodev/netfree-releases/releases/latest/download/FSFLIX-Setup.exe)\n
